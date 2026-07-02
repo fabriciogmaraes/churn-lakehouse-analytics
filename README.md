@@ -42,7 +42,7 @@ Dicionário completo em [`docs/data_dictionary.md`](docs/data_dictionary.md).
 ## Roadmap
 
 - [x] Setup do repositório e estrutura inicial
-- [ ] Setup do workspace Databricks Free Edition
+- [x] Setup do workspace Databricks Free Edition
 - [ ] Bronze: ingestão do CSV bruto
 - [ ] Silver: limpeza e tipagem
 - [ ] Gold: star schema (fato + dimensões)
