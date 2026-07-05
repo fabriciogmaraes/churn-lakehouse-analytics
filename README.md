@@ -44,7 +44,7 @@ Dicionário completo em [`docs/data_dictionary.md`](docs/data_dictionary.md).
 - [x] Setup do repositório e estrutura inicial
 - [x] Setup do workspace Databricks Free Edition
 - [x] Bronze: ingestão do CSV bruto
-- [ ] Silver: limpeza e tipagem
+- [x] Silver: limpeza e tipagem
 - [ ] Gold: star schema (fato + dimensões)
 - [ ] Views otimizadas para Power BI
 - [ ] Dashboard Power BI (curva de retenção, churn por tenure/plano/contrato)
