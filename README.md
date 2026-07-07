@@ -45,7 +45,7 @@ Dicionário completo em [`docs/data_dictionary.md`](docs/data_dictionary.md).
 - [x] Setup do workspace Databricks Free Edition
 - [x] Bronze: ingestão do CSV bruto
 - [x] Silver: limpeza e tipagem
-- [ ] Gold: star schema (fato + dimensões)
+- [x] Gold: star schema (fato + dimensões)
 - [ ] Views otimizadas para Power BI
 - [ ] Dashboard Power BI (curva de retenção, churn por tenure/plano/contrato)
 - [ ] Camada de ML com MLflow (propensão a churn) — opcional
